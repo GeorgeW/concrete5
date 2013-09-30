@@ -1,0 +1,17 @@
+{
+  "name": "concrete5",
+  "version": "5.6.2",
+  "homepage": "https://github.com/GeorgeW/concrete5",
+  "authors": [
+    "George Welch <Furiousg3org3@gmail.com>"
+  ],
+  "description": "Bower install for concrete5",
+  "main": "index.php",
+  "keywords": [
+    "concrete5",
+    "cms",
+    "php",
+    "web"
+  ],
+  "license": "y"
+}
